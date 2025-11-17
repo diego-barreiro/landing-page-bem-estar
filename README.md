@@ -20,7 +20,7 @@ A página foi construída com atenção à adaptação em diferentes tamanhos de
 
 ## 🖼️ Preview
 
-<img src="https://github.com/dbarreiro19/desafio-devclub-css-01/blob/916ebe9ff2f33bf961ded3ee4950abefd8266f09/assets/desafio-css-img-readme.png?" alt="imagem-landing-page-bem-estar">
+<img src="assets/preview-bem-estar.png" alt="preview-landing-page-bem-estar">
 > 💻 Visualização do layout responsivo em diferentes dispositivos
 
 ## 📁 Organização
