@@ -1,38 +1,41 @@
-<h1>Desafio CSS</h1>
+# 🌿 Landing Page | Bem-estar Natural
 
-<br>
+Projeto desenvolvido como parte da formação Full-stack no DevClub, com foco em prática de HTML e CSS.
 
-<h2>Projeto do <a href="https://rodolfomori.com.br/devclub" target="_blank">Curso DevClub Full Stack</a></h2>
+## 📌 Propósito
 
-<p>Módulo: Iniciando no Front End - Desafio CSS - CSS Parte 01</p>
+Este projeto tem como objetivo exercitar a construção de uma landing page responsiva, aplicando fundamentos de estruturação semântica com HTML e estilização com CSS.  
+A proposta visual foi baseada em um layout fornecido no desafio, simulando uma página de apresentação para um serviço fictício de bem-estar natural.
 
-<br>
+> Os textos utilizados foram mantidos conforme o layout original do desafio, com foco exclusivo na prática visual e técnica.
 
-<h3>Demonstração visual do projeto</h3>
+## 🛠️ Tecnologias aplicadas
 
-<br>
+- HTML
+- CSS
 
-<img src="https://github.com/dbarreiro19/desafio-devclub-css-01/blob/916ebe9ff2f33bf961ded3ee4950abefd8266f09/assets/desafio-css-img-readme.png?raw=true" alt="imagem-parte-visual-do-projeto-desafio-css">
+## 📱 Responsividade
 
-<br>
+A página foi construída com atenção à adaptação em diferentes tamanhos de tela, utilizando unidades relativas e media queries básicas.
 
-<h3>Detalhes do projeto</h3>
+## 🖼️ Preview
 
-<br>
+<img src="https://github.com/dbarreiro19/desafio-devclub-css-01/blob/916ebe9ff2f33bf961ded3ee4950abefd8266f09/assets/desafio-css-img-readme.png?" alt="imagem-landing-page-bem-estar">
+> 💻 Visualização do layout responsivo em diferentes dispositivos
 
-<ul>
-  <li>Design construído seguindo especificações do projeto na ferramenta Figma</li>
-  <li>Responsividade para três tamanhos de tela (desktop, tablet e smartphone) utilizando CSS @media queries</li>
-</ul>
+## 📁 Organização
 
-<br>
+- Estrutura de pastas simples e clara  
+- Separação entre conteúdo e estilo  
+- Código limpo e comentado para facilitar entendimento
 
-<h3>Tecnologias e ferramentas utilizadas</h3>
+## 🚀 Aprendizados
 
-<br>
+- Estruturação semântica com HTML  
+- Estilização com CSS moderno  
+- Boas práticas de organização visual  
+- Publicação de projeto via GitHub Pages
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">  
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma-logo">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva-logo">
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="gimp-logo">
+## 🌐 Projeto online
+
+🔗 [Acesse a página publicada no GitHub Pages](https://diego-barreiro.github.io/landing-page-bem-estar/)
